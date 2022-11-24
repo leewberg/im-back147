@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @im-back147
 - 👀 I’m interested in coding, writing, and gaming
-- 🌱 I’m currently learning html, css, and javascript through school
+- 🌱 I’m currently learning html, css, javascript, and python through school
 - 📫 How to reach me: on here, mostly
 
 <!---
